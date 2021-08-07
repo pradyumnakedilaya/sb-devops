@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: manidweepam
+Build-Jdk: 11.0.9
+Implementation-Title: sb-devops
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.org
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/sb-devops
+Created-By: Maven Integration for Eclipse
+
